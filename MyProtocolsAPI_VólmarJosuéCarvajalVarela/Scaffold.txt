@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext -f "SERVER=DESKTOP-5PAKN22\SQLEXPRESS; DATABASE=MyProtocolsDB; INTEGRATED SECURITY=FALSE; USER ID=MyProtocolsAPIUser; PASSWORD=123456" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models 
